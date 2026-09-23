@@ -8,7 +8,7 @@ This project is made with **HTML, CSS, and JavaScript** and includes animations,
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to view the site](https://github.com/abinesh-codes/surprise.git)  
+👉 [Click here to view the site](https://abinesh-codes.github.io/surprise/)  
 
 ---
 
